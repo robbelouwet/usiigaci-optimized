@@ -1,0 +1,9 @@
+Data
+__pycache__
+.idea
+.vscode
+venv
+env
+postprocessing/data/
+Roadmap_Usiigaci.docx
+trainingsessions-log.xlsx
